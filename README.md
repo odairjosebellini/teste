@@ -1,2 +1,2 @@
 # teste
-Testando a parada... xyzaxx
+Testando a parada...
